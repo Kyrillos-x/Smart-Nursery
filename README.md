@@ -1,6 +1,6 @@
 # Smart Nursery Incubator System
 
-A smart nursery incubator project using **Arduino Mega 2560**, designed to monitor and control environmental conditions and baby vital signs such as temperature, humidity, heart rate, and noise levels.
+A smart nursery incubator project using **Arduino Mega or Mega 2560**, designed to monitor and control environmental conditions and baby vital signs such as temperature, humidity, heart rate, and noise levels.
 
 ---
 
@@ -8,7 +8,7 @@ A smart nursery incubator project using **Arduino Mega 2560**, designed to monit
 
 | Component               | Description                               |
 | ----------------------- | ----------------------------------------- |
-| Arduino Mega 2560       | Main microcontroller                      |
+| Arduino Mega            | Main microcontroller                      |
 | DHT22 Sensor            | Measures ambient temperature and humidity |
 | LM35 Temperature Sensor | Measures baby’s body temperature          |
 | Pulse Sensor            | Measures baby's heart rate                |
